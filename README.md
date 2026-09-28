@@ -12,7 +12,7 @@ Afficher l'historique en graphe quand c'est pertinent.
 3. Historique des commits
    ![Photo du projet](/site/captures/historique_de_commits.png)
 4. Pull Request
-   ![Photo du projet](/site/captures/pull_req.png)
+   ![Photo du projet](/site/captures/pull_request.png)
 5. Revue croisée
    ![Photo du projet](/site/captures/revue_croisée.png)
 
