@@ -21,7 +21,8 @@ Afficher l'historique en graphe quand c'est pertinent.
 6. Secret retiré du suivi
    ![Photo du projet](/site/captures/secret_retire.png)
 7. Conflit résolu (marqueurs avant, graphe après)
-   (capture)
+   ![Photo du projet](/site/captures/conflit.png)
+   ![Photo du projet](/site/captures/conflit_resolu.png)
 8. Revert du bandeau promo
    (capture)
 9. Issue fermée par une Pull Request
