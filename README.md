@@ -26,7 +26,7 @@ Afficher l'historique en graphe quand c'est pertinent.
 8. Revert du bandeau promo
    ![Photo du projet](/site/captures/revert_bandeau.png)
 9. Issue fermée par une Pull Request
-   (capture)
+   ![Photo du projet](/site/captures/issue_fermée_par_PR.png)
 10. Protection de main et CI au vert
     (capture)
 
