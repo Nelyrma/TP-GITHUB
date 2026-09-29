@@ -1,2 +1,6 @@
 body { font-family: system-ui, sans-serif; margin: 2rem; }
 h1 { color: #4E5EA3; }
+.id {
+    padding: 10px 20px;
+    border-radius: 5px;
+}
